@@ -1,0 +1,15 @@
+sprite=pipe=sprites/pipe-green.png
+sprite=bird_down_flap=sprites/bluebird-downflap.png
+sprite=bird_mid_flap=sprites/bluebird-midflap.png
+sprite=bird_up_flap=sprites/bluebird-upflap.png
+sprite=background=sprites/background-day.png
+sprite=num_0=sprites/0.png
+sprite=num_1=sprites/1.png
+sprite=num_2=sprites/2.png
+sprite=num_3=sprites/3.png
+sprite=num_4=sprites/4.png
+sprite=num_5=sprites/5.png
+sprite=num_6=sprites/6.png
+sprite=num_7=sprites/7.png
+sprite=num_8=sprites/8.png
+sprite=num_9=sprites/9.png

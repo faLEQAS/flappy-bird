@@ -1,0 +1,2 @@
+@echo off
+g++ -g main.cpp game.cpp vector.cpp sprite.cpp hash_table.cpp util.cpp camera.cpp asset_manager.cpp entity.cpp -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -LC:\mingw_dev_lib\lib -IC:\mingw_dev_lib\include\SDL2 -o out
